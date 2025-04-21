@@ -14,8 +14,7 @@ an accuracy of around 86% and can be even further improved with more data.
 - Wait for a few seconds
 - The results will appear below the predict button
 
-```Web link will be available soon...untill then```
-Check out the preview
 
-## Preview
-![](https://github.com/VaibhavSaini19/Crop-Yield-Prediction-using-ML/blob/master/CYP.png)
+
+
+
